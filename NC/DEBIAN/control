@@ -1,0 +1,10 @@
+Package: com.arjunb.com.nc
+Name: NotificationCenterPusher
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Arjun Bhatnagar
+Author: Arjun Bhatnagar
+Section: Tweaks
+Version: 0.0.1-2+debug
+Installed-Size: 120
